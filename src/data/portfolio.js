@@ -1,20 +1,20 @@
 export default [
    {
-      title: 'Amazon E-commerce Clone',
-      imgUrl: '/assets/amazon.jpg',
-      stack: ['React', 'Redux', 'React-router-dom',"Tailwind CSS","Vite"],
+      title: 'CheckWallet',
+      imgUrl: '/assets/CheckWallet.jpg',
+      stack: ['React', 'Ant Design', 'React-router-dom',"Bootstrap","Vite","Node","Express","MongoDB"],
       link: 'https://github.com/AvikNayak22/Amazon-Clone',
    },
    {
-      title: 'Google Search Clone',
-      imgUrl: '/assets/google.jpg',
+      title: 'SearXYZ',
+      imgUrl: '/assets/searXYZ.png',
       stack: ['React','React-router-dom',"Tailwind CSS","Custom Search API","Vite"],
-      link: 'https://github.com/AvikNayak22/google-clone',
+      link: 'https://github.com/AvikNayak22/searXYZ',
    },
    {
-      title: 'Invoice Generator',
-      imgUrl: '/assets/invoice.jpg',
+      title: 'Re-Invoice',
+      imgUrl: '/assets/Re-invoice.png',
       stack: ['React', 'Tailwind', 'Vite'],
-      link: 'https://github.com/AvikNayak22/React-Invoice',
+      link: 'https://github.com/AvikNayak22/Reinvoice',
    }
 ]
